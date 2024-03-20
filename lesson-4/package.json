@@ -9,6 +9,7 @@
   "author": "Aaron Snowberger",
   "license": "ISC",
   "dependencies": {
+    "http": "^0.0.1-security",
     "http-status-codes": "^2.2.0"
   }
 }
