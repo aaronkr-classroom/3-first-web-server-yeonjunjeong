@@ -4,11 +4,14 @@
   "description": "Lesson 6 Exercises",
   "main": "listing6.2.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node 6.6.TODO.js"
   },
   "author": "Aaron Snowberger",
   "license": "ISC",
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
     "http-status-codes": "^2.2.0"
   }
 }
